@@ -66,6 +66,12 @@
 }
 ```
 
+- **delete db**
+
+    - use "database name"
+
+    -db.dropDatabase()
+
 # Working with MongoDB + Clients (The Big Picture)
 ![Screen Shot 2020-11-02 at 9 26 34 AM](https://user-images.githubusercontent.com/59414750/97892686-922a3a80-1ced-11eb-96df-64d0f4a89377.png)
 
